@@ -2,7 +2,7 @@
 
 This Repository contains the notes of the online course on the basics of linux by NDG & sponsored by Cisco.
 
-This course had been divided into 18 modules having labs and quizzes after each module.
+This course has been divided into 18 modules having labs and quizzes after each module.
 
 The 18 modules have been listed here:
 
